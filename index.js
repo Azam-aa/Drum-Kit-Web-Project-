@@ -6,7 +6,12 @@ document.querySelectorAll(".drum")[i].addEventListener("click",function(){
 
     var buttonInnerHTML = this.innerHTML;
 
-    
+    switch (buttonInnerHTML) {
+            
+        
+        default: console.log(buttonInnerHTML);
+            break;
+    }
 });
 }
 
