@@ -5,5 +5,7 @@
 - This is HTML CSS and JS Project
 - Praticing the DOM and JS
 - When specfic keys are pressed, using JS one key press system should make sound
+- Download the code and try it by yourself
+
 
 
